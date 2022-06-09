@@ -1,5 +1,8 @@
 # dio-desafio-instagram-flexbox
-Projeto DIO Instagram Foi desenvolvida a interface do Instagram utilizando CSS3/HTML5. O foco do projeto foi a utilização e entendimento do display Flexbox;  Resultado final Visão geral da Interface no Desktop e Tablet  tela do desktop  
+Projeto DIO recriando a interface do Instagram.
+Foi desenvolvida uma releitura da interface do Instagram utilizando CSS3/HTML5.
+O foco do projeto foi a utilização e entendimento do display Flexbox.
+Resultado final Visão geral da Interface no Desktop e Mobile  
 
 # Tecnologias
 <p>Foi usado na construção do projeto:
